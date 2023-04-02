@@ -1,6 +1,6 @@
 # Data-Models
 * PostgreSQL: postgresql.md # relational
-* Model 2 — 
+* IBM IMS: ims.db # Hierarchical
 * Model 3 — 
 * Model 4 — 
 * Model 5 — 
