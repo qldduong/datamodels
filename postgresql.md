@@ -4,8 +4,8 @@ In addition to being a relational database, it also supports some of the feature
 PostgreSQL uses a client-server model, so users must use a database server in order for it to setup and run over a network. 
 For Java to access it, users must download a PostgreSQL JDBC driver to connect Java to the PostgreSQL database server.
 The driver allows Java programs to connect to a PostgreSQL database using standard, database independent Java code.
-JDBC drivers usually include functionality like creating and maintaining a connection to a database, send commands to that database, and
-Deliver the database response back to our program.
+JDBC drivers usually include functionality like creating and maintaining a connection to a database, sending commands to that database, and
+delivering the database response back to the Java program.
 
 
 # Sources:
