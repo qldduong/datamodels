@@ -2,7 +2,7 @@
 * PostgreSQL: postgresql.md # relational
 * IBM IMS: ims.db # Hierarchical
 * Cassandra: cassandra.db # Key-value 
-* Model 4 — 
+* Raima Database Manager: rdm.db # Relational
 * Model 5 — 
 * Model 6 — 
 * Model 7 — 
