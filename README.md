@@ -1,7 +1,7 @@
 # Data-Models
 * PostgreSQL: postgresql.md # relational
 * IBM IMS: ims.db # Hierarchical
-* Model 3 — 
+* Cassandra: cassandra.db # Key-value 
 * Model 4 — 
 * Model 5 — 
 * Model 6 — 
