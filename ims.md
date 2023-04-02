@@ -2,6 +2,7 @@ IBM's Information Management System (IMS) [(link to website here)](https://www.i
 As a hierarchical database, it stores data in a tree-like structure that's built around parent-child relationships of the nodes within the tree.
 IBM IMS uses a hybrid cloud model, so it uses on-premises storage and cloud storage.
 Java applications can IMS databases and process IMS transactions through drivers like The IMS Universal drivers.
+The IMS Universal drivers are software components that provide Java™ applications with connectivity and access to IMS databases from z/OS® and distributed environments through TCP/IP. 
 
 
 # Sources:
@@ -9,4 +10,5 @@ Java applications can IMS databases and process IMS transactions through drivers
 ### https://www.ibm.com/products/ims/details
 ### https://www.dalescott.net/embedded-vs-cloud-vs-iot/
 ### https://www.ibm.com/docs/en/ims/15.1.0?topic=ims-solutions-java-development-overview
+### https://www.ibm.com/docs/en/ims/15.1.0?topic=drivers-ims-universal-overview
 
