@@ -1,9 +1,9 @@
 # Data-Models
 * PostgreSQL: postgresql.md # relational
-* IBM IMS: ims.db # Hierarchical
-* Cassandra: cassandra.db # Key-value 
-* Raima Database Manager: rdm.db # Relational
-* Intersystems IRIS: iris.db # Multi-model
+* IBM IMS: ims.md # Hierarchical
+* Cassandra: cassandra.md # Key-value 
+* Raima Database Manager: rdm.md # Relational
+* Intersystems IRIS: iris.md # Multi-model
 * Model 6 — 
 * Model 7 — 
 * Model 8 —
