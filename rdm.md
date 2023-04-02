@@ -11,5 +11,5 @@ Java requires users to download RDM JDBC drivers to write database applications 
 
 
 # Sources:
-# https://raima.com/product-overview/
-# https://docs.raima.com/rdm/15_1/ug/jdbc/Introduction.htm
+### https://raima.com/product-overview/
+### https://docs.raima.com/rdm/15_1/ug/jdbc/Introduction.htm
