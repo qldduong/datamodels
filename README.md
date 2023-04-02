@@ -3,7 +3,7 @@
 * IBM IMS: ims.db # Hierarchical
 * Cassandra: cassandra.db # Key-value 
 * Raima Database Manager: rdm.db # Relational
-* Model 5 — 
+* Intersystems IRIS: iris.db # Multi-model
 * Model 6 — 
 * Model 7 — 
 * Model 8 —
