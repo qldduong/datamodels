@@ -5,8 +5,8 @@ Java applications can IMS databases and process IMS transactions through drivers
 
 
 # Sources:
-# https://www.techtarget.com/searchdatacenter/definition/IMS-Information-Management-System#:~:text=In%20the%201980s%20and%201990s,Fortune%201000%20and%20global%20companies.
-# https://www.ibm.com/products/ims/details
-# https://www.dalescott.net/embedded-vs-cloud-vs-iot/
-# https://www.ibm.com/docs/en/ims/15.1.0?topic=ims-solutions-java-development-overview
+### https://www.techtarget.com/searchdatacenter/definition/IMS-Information-Management-System#:~:text=In%20the%201980s%20and%201990s,Fortune%201000%20and%20global%20companies.
+### https://www.ibm.com/products/ims/details
+### https://www.dalescott.net/embedded-vs-cloud-vs-iot/
+### https://www.ibm.com/docs/en/ims/15.1.0?topic=ims-solutions-java-development-overview
 
