@@ -6,7 +6,7 @@
 * Intersystems IRIS: iris.md # Multi-model
 * ObjectStore: objecstore.md # Object-oriented 
 * HBase: hbase.md # Columnar
-* Model 8 —
+* OrientDB: orientdb.md # Multi-model
 
 # Bonus Model: 
 * Model 9 -
