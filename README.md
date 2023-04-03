@@ -4,8 +4,8 @@
 * Cassandra: cassandra.md # Key-value 
 * Raima Database Manager: rdm.md # Relational
 * Intersystems IRIS: iris.md # Multi-model
-* Model 6 — 
-* Model 7 — 
+* ObjectStore: objecstore.md # Object-oriented 
+* HBase: hbase.md # Columnar
 * Model 8 —
 
 # Bonus Model: 
