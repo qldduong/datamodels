@@ -13,7 +13,3 @@ delivering the database response back to the Java program.
 ### https://hevodata.com/learn/sqlite-vs-postgresql/#intro_postgresql
 ### https://www.postgresqltutorial.com/postgresql-jdbc/connecting-to-postgresql-database/#:~:text=To%20connect%20to%20the%20PostgreSQL,file%20is%20a%20jar%20file.
 ### https://jdbc.postgresql.org/
-
-
-
-The PostgreSQL JDBC Driver allows Java programs to connect to a PostgreSQL database using standard, database independent Java code. pgJDBC is an open source JDBC driver written in Pure Java (Type 4), and communicates in the PostgreSQL native network protocol. Because of this, the driver is platform independent; once compiled, the driver can be used on any system.
