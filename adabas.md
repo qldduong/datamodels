@@ -1,7 +1,3 @@
-Find a database whose model isn't one we've discussed already
-Describe it in another file
-Include a description of how that data model is different from the others
-
 One example of a database that follows a model that we haven't discussed yet is Software AG’s ADABAS Database management system.
 It's been around since the 70s, is still supported, and its website can be found [here](https://cdt.ca.gov/services/database-adabas/).
 It uses an inverted file model. In this model, data isn't stored in a table like in a relational database, it's not centered around classes and objects,
