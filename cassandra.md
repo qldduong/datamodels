@@ -5,7 +5,7 @@ This means it's scalable and has no single point of failure. To access Cassandra
 The JDBC API defines a set of Java interfaces that encapsulate major database functionality, such as running queries and processing results.
 That API, combined with database-specific drivers, allows Java to directly access any database where both are provided.
 
-https://www.ibm.com/docs/en/ims/15.1.0?topic=drivers-ims-universal-overview
+
 
 # Sources
 ### https://cassandra.apache.org/_/index.html
